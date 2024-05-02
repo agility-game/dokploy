@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+dokploy
+# Dokploy
 
-Based on "ABC" at https://www.abc.com/
+Based on "Dokploy" at https://www.dokploy.com/
 
 ## 100 - Introduction
 
