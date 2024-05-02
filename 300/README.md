@@ -6,7 +6,7 @@ Based on "Dokploy - Introduction" at https://www.youtube.com/watch?v=mznYKPvhcfw
 
 See [README.md](./100/README.md)
 
-## 200 - Login to Hertzner to Create a New Project
+## 200 - Create a New Project on Hertzner
 
 See [README.md](./200/README.md)
 
