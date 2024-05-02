@@ -1,7 +1,11 @@
 dokploy
-# Dokploy
+# Dokploy - Open Source Alternative to Vercel, Netlify and Heroku.
 
 Based on "Dokploy" at https://www.dokploy.com/
+
+Based on "dokploy on GitHub" at https://github.com/Dokploy/dokploy
+
+Based on "Dokploy - Introduction" at https://www.youtube.com/watch?v=mznYKPvhcfw 
 
 ## 100 - Introduction
 
