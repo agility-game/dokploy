@@ -42,7 +42,9 @@ Likewise, skip the option to create **Backups**, as we will not need them here.
 
 ![Create_server-010](https://github.com/agility-game/dokploy/assets/1499433/97b14852-30fb-431f-8cbb-e1d42550d431)
 
+In addition, skip the option to create **Placement groups**, as we will not need them here.
 
+![Create_server-011](https://github.com/agility-game/dokploy/assets/1499433/ce2fe445-64f1-454f-beca-e9b3280463d0)
 
 
 MORE
