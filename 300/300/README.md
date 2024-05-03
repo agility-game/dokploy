@@ -16,7 +16,7 @@ For the **type of CPU**, choose a low-cost option. Here we use the lowest in cos
 
 ![Create_server-004](https://github.com/agility-game/dokploy/assets/1499433/f54dc7e5-56f7-4a16-894b-adba63aa5c28)
 
-For the **networking**, choose both public IP4 and IP6 (comes at no additional cost) so our applications will be reachable from the Internet:
+For the **networking**, choose both public IPv4 and IPv6 (comes at no additional cost) so our applications will be reachable from the Internet:
 
 ![Create_server-005](https://github.com/agility-game/dokploy/assets/1499433/b1bed9e1-133b-4a22-9500-bad93a860515)
 
