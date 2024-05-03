@@ -46,5 +46,10 @@ In addition, skip the option to create **Placement groups**, as we will not need
 
 ![Create_server-011](https://github.com/agility-game/dokploy/assets/1499433/ce2fe445-64f1-454f-beca-e9b3280463d0)
 
+Moreover, skip the option to create **Labels**, we will not need them here.
+
+![Create_server-012](https://github.com/agility-game/dokploy/assets/1499433/9871b2a4-8f93-400f-ae60-45ed69bf1b3c)
+
+
 
 MORE
