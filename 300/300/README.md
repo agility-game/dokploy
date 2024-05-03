@@ -38,6 +38,10 @@ Also, skip the option to create **Firewalls**, as we will not need them here.
 
 ![Create_server-009](https://github.com/agility-game/dokploy/assets/1499433/21655827-36f5-472a-932b-87c86e77f314)
 
+Likewise, skip the option to create **Backups**, as we will not need them here.
+
+![Create_server-010](https://github.com/agility-game/dokploy/assets/1499433/97b14852-30fb-431f-8cbb-e1d42550d431)
+
 
 
 
