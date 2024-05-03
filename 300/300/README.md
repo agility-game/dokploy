@@ -34,7 +34,9 @@ Skip the option to create **Volumes**, as we will not need them here.
 
 ![Create_server-008](https://github.com/agility-game/dokploy/assets/1499433/16d6dfc9-74b8-4906-bdc4-4e978f54b132)
 
+Also, skip the option to create **Firewalls**, as we will not need them here.
 
+![Create_server-009](https://github.com/agility-game/dokploy/assets/1499433/21655827-36f5-472a-932b-87c86e77f314)
 
 
 
