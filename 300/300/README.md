@@ -30,5 +30,13 @@ Copy the content of the **Public Key** from your workstation (here we use our Ma
 
 Click **Add SSH Key** to commit.
 
+Skip the option to create **Volumes**, as we will not need them here.
+
+![Create_server-008](https://github.com/agility-game/dokploy/assets/1499433/16d6dfc9-74b8-4906-bdc4-4e978f54b132)
+
+
+
+
+
 
 MORE
