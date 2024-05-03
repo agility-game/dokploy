@@ -7,5 +7,3 @@ Browse to https://console.hetzner.cloud/projects
 ![Name_the_new_project_on_hertzner_agility_game](https://github.com/agility-game/dokploy/assets/1499433/fcf39bfb-9521-4ff5-8fa3-d5ef0da056d0)
 
 ![Project_agility_game_created](https://github.com/agility-game/dokploy/assets/1499433/828bb272-90e8-4eea-a531-997803133180)
-
-MORE 
