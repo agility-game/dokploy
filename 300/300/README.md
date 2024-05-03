@@ -50,6 +50,14 @@ Moreover, skip the option to create **Labels**, we will not need them here.
 
 ![Create_server-012](https://github.com/agility-game/dokploy/assets/1499433/9871b2a4-8f93-400f-ae60-45ed69bf1b3c)
 
+Finally, skip the option to create **Cloud config**, as we will not need them here.
 
+![Create_server-013](https://github.com/agility-game/dokploy/assets/1499433/703b00f3-92bc-4009-9b63-be54de3bd71c)
 
-MORE
+For **Naming** our server, use an appropriate name (here: ```agility-game-1```):
+
+![Create_server-014](https://github.com/agility-game/dokploy/assets/1499433/ae605fc6-f123-42aa-aa41-9f3784115af1)
+
+Now click on **Create & Buy now**.
+
+![Create_server-015](https://github.com/agility-game/dokploy/assets/1499433/212fc610-f06c-47bf-ad59-257c4a43b831)
