@@ -20,5 +20,12 @@ For the **networking**, choose both public IPv4 and IPv6 (comes at no additional
 
 ![Create_server-005](https://github.com/agility-game/dokploy/assets/1499433/b1bed9e1-133b-4a22-9500-bad93a860515)
 
+For help with creating an **SSH Key**, see https://community.hetzner.com/tutorials/howto-ssh-key
+
+Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_rsa.pub``` and paste it in the textfield show below:
+
+![Create_server-006](https://github.com/agility-game/dokploy/assets/1499433/04d5a58b-dbe6-4734-a85e-1f2894600cde)
+
+![Create_server-007](https://github.com/agility-game/dokploy/assets/1499433/3c292e55-28ca-4c7c-8fce-ef6eaef07fb7)
 
 MORE
