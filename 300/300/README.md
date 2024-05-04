@@ -61,3 +61,5 @@ For **Naming** our server, use an appropriate name (here: ```agility-game-1```):
 Now click on **Create & Buy now**.
 
 ![Create_server-015](https://github.com/agility-game/dokploy/assets/1499433/212fc610-f06c-47bf-ad59-257c4a43b831)
+
+![Screenshot 2024-05-04 at 10 52 28](https://github.com/agility-game/dokploy/assets/1499433/49e6173b-d219-449b-8d24-bdee352dc330)
