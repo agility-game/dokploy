@@ -30,7 +30,7 @@ We recommend in such a case to use a more modern and secure type of key such as 
 $ ssh-keygen -t ed25519
 ```
 
-Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_rsa.pub``` and paste it in the textfield show below:
+Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_ed25519.pub``` and paste it in the textfield show below:
 
 ![Create_server-006](https://github.com/agility-game/dokploy/assets/1499433/04d5a58b-dbe6-4734-a85e-1f2894600cde)
 
