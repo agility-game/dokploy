@@ -34,7 +34,7 @@ Copy the content of the **Public Key** from your workstation (here we use our Ma
 
 ![Create_server-006](https://github.com/agility-game/dokploy/assets/1499433/04d5a58b-dbe6-4734-a85e-1f2894600cde)
 
-![Create_server-007](https://github.com/agility-game/dokploy/assets/1499433/3c292e55-28ca-4c7c-8fce-ef6eaef07fb7)
+=== IMAGE GOES HERE ===
 
 Click **Add SSH Key** to commit.
 
