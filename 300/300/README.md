@@ -36,6 +36,16 @@ See also [Setting up multiple SSH keys on one computer](https://connkat.medium.c
 
 Don't forget to update the file ```~/.ssh/config``` as explained in above link.
 
+```
+# Hetzner account
+Host hetzner.com
+HostName hetzner.com
+IdentityFile ~/.ssh/id_ed25519_hetzner
+User root
+IdentitiesOnly yes
+```
+~/.ssh/config
+
 Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_ed25519_hetzner.pub``` and paste it in the textfield show below:
 
 ![Create_server-006](https://github.com/agility-game/dokploy/assets/1499433/04d5a58b-dbe6-4734-a85e-1f2894600cde)
