@@ -32,7 +32,7 @@ $ ssh-keygen -t ed25519 -C "wvanheemstra@icloud.com"
 
 It will prompt you for a filename, you should name it something like: ```id_ed25519_hetzner``` to distinguish it from potentially other keys stored in the same location.
 
-See also [Setting up multiple SSH keys on one computer](https://connkat.medium.com/setting-up-multiple-ssh-keys-on-one-computer-75f068d972d9)
+See also [Setting up multiple SSH keys on one computer](https://connkat.medium.com/setting-up-multiple-ssh-keys-on-one-computer-75f068d972d9) and [How to Use The SSH Config File](https://phoenixnap.com/kb/ssh-config).
 
 Don't forget to update the file ```~/.ssh/config``` as explained in above link. Where for HostName fill in the public IP address (here: ```116.203.36.60```) of the server on hetzner. Notice that for hetzner we do **not** authenticate with a password.
 
