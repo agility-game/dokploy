@@ -32,6 +32,10 @@ $ ssh-keygen -t ed25519 -C "wvanheemstra@icloud.com"
 
 It will prompt you for a filename, you should name it something like: ```id_ed25519_hetzner``` to distinguish it from potentially other keys stored in the same location.
 
+See also [Setting up multiple SSH keys on one computer](https://connkat.medium.com/setting-up-multiple-ssh-keys-on-one-computer-75f068d972d9)
+
+Don't forget to update the file ```~/.ssh/config``` as explained in above link.
+
 Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_ed25519_hetzner.pub``` and paste it in the textfield show below:
 
 ![Create_server-006](https://github.com/agility-game/dokploy/assets/1499433/04d5a58b-dbe6-4734-a85e-1f2894600cde)
