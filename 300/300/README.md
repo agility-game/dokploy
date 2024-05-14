@@ -34,7 +34,7 @@ It will prompt you for a filename, you should name it something like: ```id_ed25
 
 See also [Setting up multiple SSH keys on one computer](https://connkat.medium.com/setting-up-multiple-ssh-keys-on-one-computer-75f068d972d9)
 
-Don't forget to update the file ```~/.ssh/config``` as explained in above link. Where for host fill in the public IP address (here: ```116.203.36.60```) of the server on hetzner.
+Don't forget to update the file ```~/.ssh/config``` as explained in above link. Where for HostName fill in the public IP address (here: ```116.203.36.60```) of the server on hetzner.
 
 ```
 # Hetzner account
