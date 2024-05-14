@@ -38,7 +38,7 @@ Don't forget to update the file ```~/.ssh/config``` as explained in above link. 
 
 ```
 # Hetzner account
-Host hetzner.com
+Host hetzner
   HostName 116.203.36.60
   IdentityFile ~/.ssh/id_ed25519_hetzner
   User root
