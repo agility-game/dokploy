@@ -27,10 +27,12 @@ For help with creating an **SSH Key**, see https://community.hetzner.com/tutoria
 We recommend in such a case to use a more modern and secure type of key such as **ed25519**. Generate a new key pair in your Ubuntu 22.04 computer (or Mac OS) with this command:
 
 ```
-$ ssh-keygen -t ed25519
+$ ssh-keygen -t ed25519 -C "wvanheemstra@icloud.com"
 ```
 
-Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_ed25519.pub``` and paste it in the textfield show below:
+It will prompt you for a filename, you should name it something like: ```id_ed25519_hetzner``` to distinguish it from potentially other keys stored in the same location.
+
+Copy the content of the **Public Key** from your workstation (here we use our Mac Mini) from the default directory ```~/.ssh/id_ed25519_hetzner.pub``` and paste it in the textfield show below:
 
 ![Create_server-006](https://github.com/agility-game/dokploy/assets/1499433/04d5a58b-dbe6-4734-a85e-1f2894600cde)
 
