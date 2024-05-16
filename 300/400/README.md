@@ -15,6 +15,6 @@ curl -sSL https://dokploy.com/install.sh | sh
 
 Paste the above code in your SSH terminal and run it. It will install Dokploy on your new server.
 
-
+![Screenshot 2024-05-16 at 16 19 46](https://github.com/agility-game/dokploy/assets/1499433/7e7b0642-ae68-4d49-994f-49a9cb2e7a93)
 
 MORE ...
