@@ -33,6 +33,18 @@ You will land on the projects page of Dokploy:
 
 ![Create_dokploy_project_001](https://github.com/agility-game/dokploy/assets/1499433/2e026822-ad48-42bd-8374-eb6a5001114a)
 
+Now instead of creating a new project straight away, we click **Settings** to setup the domain.
+
+![Setup_server_domain-001](https://github.com/agility-game/dokploy/assets/1499433/282b8439-7a58-49de-bf1c-fcc56bc998ee)
+
+
+
+
+
+
+
+...
+
 Click **+ Create Project**.
 
 MORE ...
