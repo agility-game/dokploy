@@ -7,7 +7,7 @@
 Now visit the landing page of [Dokploy](dokploy.com) and copy the line of text presented there:
 
 
-
+![install-dokploy-001](https://github.com/agility-game/dokploy/assets/1499433/43f9a1b6-6a99-4f97-8a3e-36faeb39910a)
 
 ```
 curl -sSL https://dokploy.com/install.sh | sh
