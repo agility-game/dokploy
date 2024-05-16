@@ -27,6 +27,8 @@ This will bring you to the registration page of Dokploy to setup the server.
 
 Fill in the above form with your details as the adminstrator of this Dokploy server and click **Register**
 
+![register-dokploy-002](https://github.com/agility-game/dokploy/assets/1499433/4eceda92-ea2f-4b38-9079-8fed7b4aefd0)
+
 
 
 MORE ...
