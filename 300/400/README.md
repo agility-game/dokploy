@@ -45,6 +45,15 @@ The A name is now setup.
 
 ![Setup_a_record_for_dokploy_server_on_versio-002](https://github.com/agility-game/dokploy/assets/1499433/e40ccfd1-60b4-40d0-a382-fb3d47c3c326)
 
+Based on what was set as the A name, complete the form on the Dokploy Settings page as follows:
+
+![Setup_server_domain-002](https://github.com/agility-game/dokploy/assets/1499433/84248d1b-7c92-43db-9827-7c253018a20f)
+
+And click **Save**
+
+...
+
+MORE
 
 ...
 
