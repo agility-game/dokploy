@@ -17,8 +17,15 @@ Paste the above code in your SSH terminal and run it. It will install Dokploy on
 
 ![Screenshot 2024-05-16 at 16 19 46](https://github.com/agility-game/dokploy/assets/1499433/7e7b0642-ae68-4d49-994f-49a9cb2e7a93)
 
-Now follow the advice from the prompt and in a browser go to the start page of Deploy here at https://116.203.36.60:3000
+Now follow the advice from the prompt and in a browser go to the start page of Deploy here at http://116.203.36.60:3000
 
+**NOTE**: The above URL is http, not https!
+
+This will bring you to the registration page of Dokploy to setup the server.
+
+![register-dokploy-001](https://github.com/agility-game/dokploy/assets/1499433/326f41b7-d51f-496a-b8bd-4800802203bb)
+
+Fill in the above form with your details as the adminstrator of this Dokploy server and click **Register**
 
 
 
