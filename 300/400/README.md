@@ -29,6 +29,10 @@ Fill in the above form with your details as the adminstrator of this Dokploy ser
 
 ![register-dokploy-002](https://github.com/agility-game/dokploy/assets/1499433/4eceda92-ea2f-4b38-9079-8fed7b4aefd0)
 
+You will land on the projects page of Dokploy:
 
+![Create_dokploy_project_001](https://github.com/agility-game/dokploy/assets/1499433/2e026822-ad48-42bd-8374-eb6a5001114a)
+
+Click **+ Create Project**.
 
 MORE ...
