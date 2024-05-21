@@ -41,9 +41,9 @@ In a separate browser window, browse to your domain hosting service (here: versi
 
 ![Screenshot 2024-05-21 at 15 23 16](https://github.com/agility-game/dokploy/assets/1499433/8e00277e-8e05-4908-8bad-6d21d8a7cf91)
 
-The A name is now setup.
+The A record is now setup.
 
-![Setup_a_record_for_dokploy_server_on_versio-002](https://github.com/agility-game/dokploy/assets/1499433/e40ccfd1-60b4-40d0-a382-fb3d47c3c326)
+![Screenshot 2024-05-21 at 15 23 54](https://github.com/agility-game/dokploy/assets/1499433/eee37501-6414-48ff-b330-10d00b27d30a)
 
 Based on what was set as the A name, complete the form on the Dokploy Settings page as follows:
 
