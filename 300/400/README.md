@@ -43,7 +43,7 @@ In a separate browser window, browse to your domain hosting service (here: versi
 
 The CNAME record is now setup.
 
-![Screenshot 2024-05-21 at 15 23 54](https://github.com/agility-game/dokploy/assets/1499433/eee37501-6414-48ff-b330-10d00b27d30a)
+![Screenshot 2024-05-21 at 15 35 53](https://github.com/agility-game/dokploy/assets/1499433/87289317-52d4-4bfe-a472-dbe3f391c205)
 
 Based on what was set as the CNAME, complete the form on the Dokploy Settings page as follows:
 
