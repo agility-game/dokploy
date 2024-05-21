@@ -53,6 +53,12 @@ And click **Save**
 
 ...
 
+Based on "Dokploy Introduction" at https://youtu.be/mznYKPvhcfw?t=268
+
+Copy the Domain as set in the Settings page in the previous step (here: ```dokploy.agility-game.com```). Paste it in a browser window, and wait a few seconds for LetsEncrypt to have picked up the change. Your browser should show the following page:
+
+
+
 MORE
 
 ...
