@@ -4,6 +4,26 @@
 
 ![Screenshot 2024-05-14 at 16 54 52](https://github.com/agility-game/dokploy/assets/1499433/225a3eb6-90ec-4905-a38b-c6ecaef5b42a)
 
+**NOTE**: You may run into the below error:
+
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ED25519 key sent by the remote host is
+SHA256:Pea9K3FjgtrY9XAshx3KUvzpZJ/n21YB94a/7N+CkSA.
+Please contact your system administrator.
+Add correct host key in /Users/willemvanheemstra/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /Users/willemvanheemstra/.ssh/known_hosts:9
+Host key for 116.203.36.60 has changed and you have requested strict checking.
+Host key verification failed.
+```
+
+In that case, visit [Updating host keys](https://help.dreamhost.com/hc/en-us/articles/217239087-Updating-host-keys)
+
 Now visit the landing page of [Dokploy](dokploy.com) and copy the line of text presented there:
 
 
