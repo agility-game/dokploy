@@ -96,6 +96,10 @@ Copy the Domain as set in the Settings page in the previous step (here: ```dokpl
 
 **TIP**: Here is how to fix a possible error, [How to Fix DNS_PROBE_FINISHED_NXDOMAIN in Chrome](https://www.youtube.com/watch?v=AgeJhUvEezo).
 
+Now login to the Dokploy page at https://dokploy.agility-game.com and you'll be directed to the projects page:
+
+![Screenshot 2024-05-23 at 16 48 34](https://github.com/agility-game/dokploy/assets/1499433/1cac5520-694c-4e31-8c9d-13bd460d0872)
+
 MORE
 
 ...
