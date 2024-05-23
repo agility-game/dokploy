@@ -36,7 +36,7 @@ Original contents retained as /Users/willemvanheemstra/.ssh/known_hosts.old
 After this re-ssh into your server.
 
 ```
-$ ssh root@116.203.36.60
+$ ssh root@116.203.36.60 -i ~/.ssh/id_ed25519_hetzner
 ```
 
 Now visit the landing page of [Dokploy](dokploy.com) and copy the line of text presented there:
