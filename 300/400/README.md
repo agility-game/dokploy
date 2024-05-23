@@ -82,7 +82,7 @@ The A record is now setup.
 
 Based on what was set as the A record, complete the form on the Dokploy Settings page as follows:
 
-== IMAGE GOES HERE ==
+![Screenshot 2024-05-23 at 15 33 07](https://github.com/agility-game/dokploy/assets/1499433/7e581d5e-22fc-4de4-9d1b-4a3d0e669d62)
 
 And click **Save**
 
