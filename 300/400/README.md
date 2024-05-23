@@ -78,11 +78,11 @@ In a separate browser window, browse to your domain hosting service (here: versi
 
 The A record is now setup.
 
-![Screenshot 2024-05-21 at 15 35 53](https://github.com/agility-game/dokploy/assets/1499433/87289317-52d4-4bfe-a472-dbe3f391c205)
+![Screenshot 2024-05-23 at 15 33 07](https://github.com/agility-game/dokploy/assets/1499433/7e581d5e-22fc-4de4-9d1b-4a3d0e669d62)
 
 Based on what was set as the A record, complete the form on the Dokploy Settings page as follows:
 
-![Screenshot 2024-05-23 at 15 33 07](https://github.com/agility-game/dokploy/assets/1499433/7e581d5e-22fc-4de4-9d1b-4a3d0e669d62)
+== IMAGE GOES HERE ==
 
 And click **Save**
 
