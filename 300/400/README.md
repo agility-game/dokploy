@@ -26,6 +26,11 @@ In that case, visit [Updating host keys](https://help.dreamhost.com/hc/en-us/art
 
 ```
 $ ssh-keygen -R 116.203.36.60
+# Host 116.203.36.60 found: line 7
+# Host 116.203.36.60 found: line 8
+# Host 116.203.36.60 found: line 9
+/Users/willemvanheemstra/.ssh/known_hosts updated.
+Original contents retained as /Users/willemvanheemstra/.ssh/known_hosts.old
 ```
 
 After this re-ssh into your server.
