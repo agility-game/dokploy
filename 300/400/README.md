@@ -92,6 +92,8 @@ Based on "Dokploy Introduction" at https://youtu.be/mznYKPvhcfw?t=268
 
 Copy the Domain as set in the Settings page in the previous step (here: ```dokploy.agility-game.com```). Paste it in a browser window, and wait a few seconds for LetsEncrypt to have picked up the change. Your browser should show the following page:
 
+![Screenshot 2024-05-23 at 15 50 40](https://github.com/agility-game/dokploy/assets/1499433/9994dc93-10da-49bf-b0fb-105bcbec4201)
+
 **TIP**: Here is how to fix a possible error, [How to Fix DNS_PROBE_FINISHED_NXDOMAIN in Chrome](https://www.youtube.com/watch?v=AgeJhUvEezo).
 
 MORE
