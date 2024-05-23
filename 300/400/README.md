@@ -74,7 +74,7 @@ Now instead of creating a new project straight away, we click **Settings** to se
 
 In a separate browser window, browse to your domain hosting service (here: versio.nl) and setup an A record for your domain (here: agility-game.com) and for the IP address choose the public IP address (here: 116.203.36.60) of the server on Hetzner. We choose "dokploy" as the subdomain, but this can be anything else.
 
-== IMAGE GOES HERE ==
+![Screenshot 2024-05-23 at 15 26 44](https://github.com/agility-game/dokploy/assets/1499433/5afa9f6b-1fd9-463a-86e8-3f93b275d339)
 
 The A record is now setup.
 
