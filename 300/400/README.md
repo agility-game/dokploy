@@ -82,7 +82,7 @@ The A record is now setup.
 
 Based on what was set as the A record, complete the form on the Dokploy Settings page as follows:
 
-== IMAGE GOES HERE ==
+![Setup_server_domain-002](https://github.com/agility-game/dokploy/assets/1499433/84248d1b-7c92-43db-9827-7c253018a20f)
 
 And click **Save**
 
