@@ -72,17 +72,17 @@ Now instead of creating a new project straight away, we click **Settings** to se
 
 ![Setup_server_domain-001](https://github.com/agility-game/dokploy/assets/1499433/282b8439-7a58-49de-bf1c-fcc56bc998ee)
 
-In a separate browser window, browse to your domain hosting service (here: versio.nl) and setup a CNAME record for your domain (here: agility-game.com) and for the IP address choose the public IP address (here: 116.203.36.60) of the server on Hetzner. We choose "dokploy" as the subdomain, but this can be anything else.
+In a separate browser window, browse to your domain hosting service (here: versio.nl) and setup an A record for your domain (here: agility-game.com) and for the IP address choose the public IP address (here: 116.203.36.60) of the server on Hetzner. We choose "dokploy" as the subdomain, but this can be anything else.
 
-![Screenshot 2024-05-21 at 15 35 09](https://github.com/agility-game/dokploy/assets/1499433/01cb9553-a023-47f0-9647-f2bf8dacfef2)
+== IMAGE GOES HERE ==
 
-The CNAME record is now setup.
+The A record is now setup.
 
 ![Screenshot 2024-05-21 at 15 35 53](https://github.com/agility-game/dokploy/assets/1499433/87289317-52d4-4bfe-a472-dbe3f391c205)
 
-Based on what was set as the CNAME, complete the form on the Dokploy Settings page as follows:
+Based on what was set as the A record, complete the form on the Dokploy Settings page as follows:
 
-![Setup_server_domain-002](https://github.com/agility-game/dokploy/assets/1499433/84248d1b-7c92-43db-9827-7c253018a20f)
+== IMAGE GOES HERE ==
 
 And click **Save**
 
