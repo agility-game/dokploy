@@ -22,7 +22,17 @@ Host key for 116.203.36.60 has changed and you have requested strict checking.
 Host key verification failed.
 ```
 
-In that case, visit [Updating host keys](https://help.dreamhost.com/hc/en-us/articles/217239087-Updating-host-keys)
+In that case, visit [Updating host keys](https://help.dreamhost.com/hc/en-us/articles/217239087-Updating-host-keys). It will recommend to remove the old key from your know hosts file on your client (here: Mac Mini) as follows:
+
+```
+$ ssh-keygen -R 116.203.36.60
+```
+
+After this re-ssh into your server.
+
+```
+$ ssh root@116.203.36.60
+```
 
 Now visit the landing page of [Dokploy](dokploy.com) and copy the line of text presented there:
 
