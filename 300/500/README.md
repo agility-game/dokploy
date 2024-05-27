@@ -38,5 +38,9 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 As the branch type **main** and click **Save**.
 
+Next, click on **Deploy**.
+
+
+
 
 MORE
