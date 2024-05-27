@@ -78,6 +78,10 @@ Back in the Hetzner Dashboard, enter the sub- and domain name (here: ```nextjs.a
 
 Click **Create**.
 
+You will see the newly created domain ```nextjs.agility-game-com``` that is associated with our Frontend application.
+
+![domains_manual_deployment-003](https://github.com/agility-game/dokploy/assets/1499433/7698102f-9a4c-4cca-a555-b678fe20ec04)
+
 
 
 
