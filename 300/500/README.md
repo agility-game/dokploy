@@ -52,6 +52,11 @@ Once the deployment has completed, go to the tab **Deployments**. We can see the
 
 ![deployments_manual_deployment-001](https://github.com/agility-game/dokploy/assets/1499433/9a638b71-e8e6-4df4-b57c-e10d5fcad726)
 
+You will see the log of the deployment:
+
+![deployments_manual_deployment-002](https://github.com/agility-game/dokploy/assets/1499433/3414b3ca-0b83-46b0-9d90-a89b6e00983f)
+
+When successful, the log will state ```Docker Deployed: tickbox```
 
 
 
