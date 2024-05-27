@@ -84,7 +84,8 @@ You will see the newly created domain ```nextjs.agility-game-com``` that is asso
 
 ![domains_manual_deployment-003](https://github.com/agility-game/dokploy/assets/1499433/7698102f-9a4c-4cca-a555-b678fe20ec04)
 
+Allow some time for the Certificate to be processed (about 10 minutes), after which you can click the link to ```nextjs.agility-game.com```. It will show the landing page of the ToDo application.
 
+![nextjs_application_live-001](https://github.com/agility-game/dokploy/assets/1499433/e51fc9db-2140-425f-9701-f89f5fabd3a3)
 
-
-MORE
+Hooray, you have deployed your application on Dokploy!
