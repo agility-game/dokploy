@@ -44,6 +44,11 @@ When prompted, choose **Confirm**.
 
 ![deploy_service_application-001](https://github.com/agility-game/dokploy/assets/1499433/a6821743-5822-4c1f-add2-da99eaf637ef)
 
+The deploy process will start, as can be seen from the spinning wheel:
+
+![deploy_service_application-002](https://github.com/agility-game/dokploy/assets/1499433/7e1e9fc7-2e5d-4d25-bfd0-30143c2906d5)
+
+
 
 
 MORE
