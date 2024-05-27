@@ -26,3 +26,10 @@ For the name of the Application Service let's use ```Frontend``` and for the Des
 
 Click **Create** button.
 
+Our new Application is listed as ```Frontend```.
+
+![service_application_created-001](https://github.com/agility-game/dokploy/assets/1499433/018d0dcc-6623-4466-bc2b-0e1e39cf0ad2)
+
+Click on the ```Frontend``` application to configure it.
+
+MORE
