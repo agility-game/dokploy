@@ -90,6 +90,6 @@ Allow some time for the Certificate to be processed (about 10 minutes), after wh
 
 Hooray, you have deployed your application on Dokploy!
 
-From the ```Monitoring``` tab on Dokploy you can see the performance of the NextJS application (Try refreshing the NextJS page several time to generate traffic).
+From the ```Monitoring``` tab on Dokploy you can see the performance of the NextJS application. Try refreshing the NextJS page several times to generate traffic.
 
 ![monitor_nextjs_application-001](https://github.com/agility-game/dokploy/assets/1499433/d892c7a3-a257-4754-866c-a72997ebd4a1)
