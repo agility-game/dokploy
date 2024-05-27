@@ -40,6 +40,9 @@ As the branch type **main** and click **Save**.
 
 Next, click on **Deploy**.
 
+When prompted, choose **Confirm**.
+
+![deploy_service_application-001](https://github.com/agility-game/dokploy/assets/1499433/a6821743-5822-4c1f-add2-da99eaf637ef)
 
 
 
