@@ -62,6 +62,10 @@ Switch to the tab **Logs** to see any issues. Also check for the status **Ready*
 
 ![manual_deployment_logs-001](https://github.com/agility-game/dokploy/assets/1499433/185152df-19e9-4963-9b65-f74901934f63)
 
+Now, switch to the tab **Domains** and click **Add Domain**.
+
+![domains_manual_deployment-001](https://github.com/agility-game/dokploy/assets/1499433/14792b9d-0bea-40b0-9a91-1a4f163cb14b)
+
 
 
 MORE
