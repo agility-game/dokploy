@@ -15,3 +15,8 @@ https://github.com/Dokploy/next-todo-app.git
 On the Projects page of Dokploy click **+ Create Project** button. Give it a name (here: ```Next ToDo App```) and a description (here: ```Next ToDo App for demonstration purposes```) and click **Create** button.
 
 ![add_project_next_todo_app-001](https://github.com/agility-game/dokploy/assets/1499433/d9829caf-9783-48a6-b526-4807d48dc48d)
+
+Once the project has been created, inside the project click **+ Create Service** and from the Actions choose **Application** (not Database):
+
+![create_service-application-001](https://github.com/agility-game/dokploy/assets/1499433/cdc4cc61-4b56-4432-8ba3-5ba4ff32ee81)
+
