@@ -66,6 +66,14 @@ Now, switch to the tab **Domains** and click **Add Domain**.
 
 ![domains_manual_deployment-001](https://github.com/agility-game/dokploy/assets/1499433/14792b9d-0bea-40b0-9a91-1a4f163cb14b)
 
+Create an A record at your domain name provider (here: versio.nl) for this application. Use the IP address of the Server on Hetzner that hosts the NextJS application (here: 116.203.36.0):
+
+![add_a_record_for_nextjs_on_versio-001](https://github.com/agility-game/dokploy/assets/1499433/d92d20d7-b5e7-4a1c-8ca9-c71ea7634bb4)
+
+Click **Add record**.
+
+Back in the Hetzner Dashboard, enter the sub- and domain name (here: ```nextjs.agility-game.com```):
+
 
 
 MORE
