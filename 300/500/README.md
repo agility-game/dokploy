@@ -48,6 +48,10 @@ The deploy process will start, as can be seen from the spinning wheel:
 
 ![deploy_service_application-002](https://github.com/agility-game/dokploy/assets/1499433/7e1e9fc7-2e5d-4d25-bfd0-30143c2906d5)
 
+Once the deployment has completed, go to the tab **Deployments**. We can see the manual deployment listed. Click **View**.
+
+![deployments_manual_deployment-001](https://github.com/agility-game/dokploy/assets/1499433/9a638b71-e8e6-4df4-b57c-e10d5fcad726)
+
 
 
 
