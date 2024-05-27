@@ -32,4 +32,11 @@ Our new Application is listed as ```Frontend```.
 
 Click on the ```Frontend``` application to configure it.
 
+In the configuration page, paste the previously copied URL into the field under the **Git** tab:
+
+![configure_service_application-001](https://github.com/agility-game/dokploy/assets/1499433/ba6f3c44-61de-46cc-8ce7-0efe358bc467)
+
+As the branch type **main** and click **Save**.
+
+
 MORE
