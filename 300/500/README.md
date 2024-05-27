@@ -72,7 +72,12 @@ Create an A record at your domain name provider (here: versio.nl) for this appli
 
 Click **Add record**.
 
-Back in the Hetzner Dashboard, enter the sub- and domain name (here: ```nextjs.agility-game.com```):
+Back in the Hetzner Dashboard, enter the sub- and domain name (here: ```nextjs.agility-game.com```), for the path stay with ```/``` as the root, for Container Port set the value of the port of our NextJS application (here: ```3000```), pick ```Letsencrypt (Default)``` as the Certificate, and set HTTPS to ```YES``` with the slider.
+
+![domains_manual_deployment-002](https://github.com/agility-game/dokploy/assets/1499433/2a5935d4-9363-4a38-8976-64e2dc6b820a)
+
+Click **Create**.
+
 
 
 
