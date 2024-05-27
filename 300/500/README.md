@@ -20,3 +20,9 @@ Once the project has been created, inside the project click **+ Create Service**
 
 ![create_service-application-001](https://github.com/agility-game/dokploy/assets/1499433/cdc4cc61-4b56-4432-8ba3-5ba4ff32ee81)
 
+For the name of the Application Service let's use ```Frontend``` and for the Description ```Frontend of Next ToDo App```, like so:
+
+![create_service-application-002](https://github.com/agility-game/dokploy/assets/1499433/a50e2b8d-b764-4f0c-a513-83d14eabbd06)
+
+Click **Create** button.
+
