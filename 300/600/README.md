@@ -4,7 +4,7 @@ Login to the Dokploy page at https://dokploy.agility-game.com and you'll be dire
 
 ![Screenshot 2024-05-23 at 16 48 34](https://github.com/agility-game/dokploy/assets/1499433/1cac5520-694c-4e31-8c9d-13bd460d0872)
 
-We are going to upload a ```home``` application, which can be found at https://github.com/agility-game/home
+We are going to upload a ```home``` application, which can be found at https://github.com/agility-game/dokploy-home
 
 Copy the below URL:
 
