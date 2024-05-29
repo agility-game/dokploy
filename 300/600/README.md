@@ -28,4 +28,10 @@ Click **Create** button.
 
 Our new Application is listed as ```Frontend```.
 
+![service_application_frontend_in_home_created-001](https://github.com/agility-game/dokploy/assets/1499433/6e08b427-5d07-4cc3-a9b9-b9d8d6d60138)
+
+Click on the ```Frontend``` application to configure it.
+
+In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
+
 MORE
