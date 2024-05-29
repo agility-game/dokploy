@@ -92,4 +92,4 @@ Hooray, you have deployed your application on Dokploy!
 
 From the ```Monitoring``` tab on Dokploy you can see the performance of the Frontend application. Try refreshing the Frontend page several times to generate traffic.
 
-== IMAGE GOES HERE ==
+![monitor_frontend_application_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/8d75c982-d6e7-4247-a589-243ddd223cff)
