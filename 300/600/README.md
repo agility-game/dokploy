@@ -56,4 +56,12 @@ You will see the log of the deployment:
 
 ![deployments_manual_deployment_frontend_in_home-002](https://github.com/agility-game/dokploy/assets/1499433/416d9998-e46c-4537-93f8-03f0b19c519e)
 
+When successful, the log will state ```Docker Deployed: tickbox```
+
+Switch to the tab **Logs** to see any issues. Also check for the status **start worker process**:
+
+![manual_deployment_frontend_in_home_logs-001](https://github.com/agility-game/dokploy/assets/1499433/c2124f4f-fc36-419d-8c0e-afdfb695a4a3)
+
+
+
 MORE
