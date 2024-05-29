@@ -34,4 +34,17 @@ Click on the ```Frontend``` application to configure it.
 
 In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
 
+![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/dd4e20d9-a3b5-4df8-b226-45b43933bade)
+
+As the branch type **main** and click **Save**.
+
+Next, click on **Deploy**.
+
+When prompted, choose **Confirm**.
+
+![deploy_service_application-001](https://github.com/agility-game/dokploy/assets/1499433/a6821743-5822-4c1f-add2-da99eaf637ef)
+
+The deploy process will start, as can be seen from the spinning wheel:
+
+
 MORE
