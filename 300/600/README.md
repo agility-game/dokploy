@@ -9,7 +9,7 @@ We are going to upload a ```home``` application, which can be found at https://g
 Copy the below URL:
 
 ```
-https://github.com/agility-game/home.git
+https://github.com/agility-game/dokploy-home.git
 ```
 
 On the Projects page of Dokploy click **+ Create Project** button. Give it a name (here: ```Home```) and a description (here: ```Home application```) and click **Create** button.
@@ -34,7 +34,7 @@ Click on the ```Frontend``` application to configure it.
 
 In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
 
-![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/dd4e20d9-a3b5-4df8-b226-45b43933bade)
+![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/9d5c4f71-ee13-487b-8e88-0d257b368140)
 
 As the branch type **main** and click **Save**.
 
