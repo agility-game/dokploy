@@ -88,4 +88,8 @@ Allow some time for the Certificate to be processed (about 10 minutes), after wh
 
 ![frontend_application_in_home_live-001](https://github.com/agility-game/dokploy/assets/1499433/14415c26-d5f5-48a0-8acd-7865c4e200d4)
 
-MORE
+Hooray, you have deployed your application on Dokploy!
+
+From the ```Monitoring``` tab on Dokploy you can see the performance of the Frontend application. Try refreshing the Frontend page several times to generate traffic.
+
+== IMAGE GOES HERE ==
