@@ -50,6 +50,10 @@ The deploy process will start, as can be seen from the spinning wheel:
 
 Once the deployment has completed, go to the tab **Deployments**. We can see the manual deployment listed. Click **View**.
 
+![deployments_manual_deployment_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/e102f92c-5b67-456c-8f40-3788a751a192)
 
+You will see the log of the deployment:
+
+![deployments_manual_deployment_frontend_in_home-002](https://github.com/agility-game/dokploy/assets/1499433/416d9998-e46c-4537-93f8-03f0b19c519e)
 
 MORE
