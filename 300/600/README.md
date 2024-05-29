@@ -86,6 +86,6 @@ You will see the newly created domain ```app.agility-game-com``` that is associa
 
 Allow some time for the Certificate to be processed (about 10 minutes), after which you can click the link to ```app.agility-game.com```. It will show the landing page of the Frontend application.
 
-== IMAGE GOES HERE ==
+![frontend_application_in_home_live-001](https://github.com/agility-game/dokploy/assets/1499433/14415c26-d5f5-48a0-8acd-7865c4e200d4)
 
 MORE
