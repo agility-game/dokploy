@@ -24,4 +24,8 @@ For the name of the Application Service let's use ```Frontend``` and for the Des
 
 ![create_service-application-frontend-in-home-001](https://github.com/agility-game/dokploy/assets/1499433/12b590ba-555b-45ff-abad-b578d1dc7b98)
 
+Click **Create** button.
+
+Our new Application is listed as ```Frontend```.
+
 MORE
