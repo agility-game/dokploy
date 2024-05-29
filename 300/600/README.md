@@ -6,3 +6,10 @@ Login to the Dokploy page at https://dokploy.agility-game.com and you'll be dire
 
 We are going to upload a ```home``` application, which can be found at https://github.com/agility-game/home
 
+Copy the below URL:
+
+```
+https://github.com/agility-game/home.git
+```
+
+On the Projects page of Dokploy click **+ Create Project** button. Give it a name (here: ```Home```) and a description (here: ```Home application```) and click **Create** button.
