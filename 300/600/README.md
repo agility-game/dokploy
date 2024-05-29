@@ -20,3 +20,6 @@ Once the project has been created, inside the project click **+ Create Service**
 
 ![create_service_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/e5e63c6a-9578-4f52-bd94-b66a6adc5da0)
 
+For the name of the Application Service let's use ```Frontend``` and for the Description ```Frontend of Home App```, like so:
+
+MORE
