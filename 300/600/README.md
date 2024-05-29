@@ -82,7 +82,7 @@ Click **Create**.
 
 You will see the newly created domain ```app.agility-game-com``` that is associated with our Frontend application.
 
-== IMAGE GOES HERE ==
+![domains_manual_deployment_frontend_in_home-003](https://github.com/agility-game/dokploy/assets/1499433/15e3c5dd-f1af-4227-a6b6-bb449f7eadfe)
 
 Allow some time for the Certificate to be processed (about 10 minutes), after which you can click the link to ```app.agility-game.com```. It will show the landing page of the Frontend application.
 
