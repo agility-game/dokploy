@@ -16,3 +16,7 @@ On the Projects page of Dokploy click **+ Create Project** button. Give it a nam
 
 ![add_project_home-001](https://github.com/agility-game/dokploy/assets/1499433/3576ff0b-f88d-4bf4-8c58-6d48192aef35)
 
+Once the project has been created, inside the project click **+ Create Service** and from the Actions choose **Application** (not Database):
+
+![create_service_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/e5e63c6a-9578-4f52-bd94-b66a6adc5da0)
+
