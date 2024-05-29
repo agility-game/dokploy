@@ -76,4 +76,16 @@ Click **Add record**.
 
 Back in the Hetzner Dashboard, enter the sub- and domain name (here: ```app.agility-game.com```), for the path stay with ```/``` as the root, for Container Port set the value of the port of our Frontend application in Home (here: ```80```), pick ```Letsencrypt (Default)``` as the Certificate, and set HTTPS to ```YES``` with the slider.
 
+![domains_manual_deployment_frontend_in_home-002](https://github.com/agility-game/dokploy/assets/1499433/cfd8ea5d-8c17-423d-af33-ea5a175198ea)
+
+Click **Create**.
+
+You will see the newly created domain ```app.agility-game-com``` that is associated with our Frontend application.
+
+== IMAGE GOES HERE ==
+
+Allow some time for the Certificate to be processed (about 10 minutes), after which you can click the link to ```app.agility-game.com```. It will show the landing page of the Frontend application.
+
+== IMAGE GOES HERE ==
+
 MORE
