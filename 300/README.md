@@ -22,4 +22,12 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
+## 600 - Create Home Project in Dokploy on Server on Hetzner
+
+See [README.md](./600/README.md)
+
+## 700 - Create Microservices Project in Dokploy on Server on Hetzner
+
+See [README.md](./700/README.md)
+
 MORE ...
