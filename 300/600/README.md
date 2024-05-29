@@ -62,6 +62,18 @@ Switch to the tab **Logs** to see any issues. Also check for the status **start 
 
 ![manual_deployment_frontend_in_home_logs-001](https://github.com/agility-game/dokploy/assets/1499433/c2124f4f-fc36-419d-8c0e-afdfb695a4a3)
 
+Now, switch to the tab **Domains** and click **Add Domain**.
 
+![domains_manual_deployment_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/78f65b6c-1ac0-4dc6-8cf0-85048c5f64c4)
+
+Create an A record at your domain name provider (here: versio.nl) for this application. Use the IP address of the Server on Hetzner that hosts the Frontend application in Home (here: 116.203.36.0):
+
+== IMAGE GOES HERE ==
+
+Click **Add record**.
+
+**WARNING**: Make sure to click **Save changes** on the Versio page, otherwise your added A Record will not be saved.
+
+Back in the Hetzner Dashboard, enter the sub- and domain name (here: ```app.agility-game.com```), for the path stay with ```/``` as the root, for Container Port set the value of the port of our Frontend application in Home (here: ```80```), pick ```Letsencrypt (Default)``` as the Certificate, and set HTTPS to ```YES``` with the slider.
 
 MORE
