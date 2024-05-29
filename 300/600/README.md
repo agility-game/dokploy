@@ -68,7 +68,7 @@ Now, switch to the tab **Domains** and click **Add Domain**.
 
 Create an A record at your domain name provider (here: versio.nl) for this application. Use the IP address of the Server on Hetzner that hosts the Frontend application in Home (here: 116.203.36.0):
 
-== IMAGE GOES HERE ==
+![add_a_record_for_app_on_versio-001](https://github.com/agility-game/dokploy/assets/1499433/c2265470-bd25-403e-a21b-597ddc4e7be7)
 
 Click **Add record**.
 
