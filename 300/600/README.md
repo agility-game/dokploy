@@ -13,3 +13,6 @@ https://github.com/agility-game/home.git
 ```
 
 On the Projects page of Dokploy click **+ Create Project** button. Give it a name (here: ```Home```) and a description (here: ```Home application```) and click **Create** button.
+
+![add_project_home-001](https://github.com/agility-game/dokploy/assets/1499433/3576ff0b-f88d-4bf4-8c58-6d48192aef35)
+
