@@ -122,4 +122,10 @@ Go back to the webhook settings and under the tab **Recent Deliveries** verify i
 
 Here, we have been successful so when can continue.
 
+Let's create a new test branch in the Github repository (here: https://github.com/agility-game/dokploy-home), name it ```test/no-ref/testing-webhook``` for testing purpose following the [naming convention for branches and commits in Git](https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4).
+
+![github_dokploy_home_webhook-005](https://github.com/agility-game/dokploy/assets/1499433/aa7078fe-02fe-4462-b653-c1468d3d3bd6)
+
+Click on the **Create branch test/no-ref/testing-webhook from main** text so the branch gets created.
+
 MORE
