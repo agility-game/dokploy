@@ -136,8 +136,13 @@ Next, make a change to the ```index.html``` by adding a version number:
 
 ![github_dokploy_home_webhook-007](https://github.com/agility-game/dokploy/assets/1499433/303ab913-3da8-4add-b20c-00a6a1322aac)
 
-Now commit your change and request for it to be pulled into the ```main``` branch.
+Now commit your change.
 
 ![github_dokploy_home_webhook-008](https://github.com/agility-game/dokploy/assets/1499433/22cb7e9d-4c10-4080-8c30-d668972db93b)
+
+You'll be notified the your branch had recent pushes, so click the **Compare & pull request** button.
+
+![github_dokploy_home_webhook-009](https://github.com/agility-game/dokploy/assets/1499433/29cf286e-08e7-465c-b17a-7b5f816db2ae)
+
 
 MORE
