@@ -132,6 +132,12 @@ You will have been switched to the newly created branch automatically.
 
 ![github_dokploy_home_webhook-006](https://github.com/agility-game/dokploy/assets/1499433/1981d75b-b309-44f2-b703-bac9652fcf7a)
 
+Next, make a change to the ```index.html``` by adding a version number:
+
+![github_dokploy_home_webhook-007](https://github.com/agility-game/dokploy/assets/1499433/303ab913-3da8-4add-b20c-00a6a1322aac)
+
+Now commit your change and request for it to be pulled into the ```main``` branch.
+
 
 
 MORE
