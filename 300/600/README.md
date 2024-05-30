@@ -148,4 +148,8 @@ Add a title and optionally a description, then click **Create pull request**.
 
 ![github_dokploy_home_webhook-010](https://github.com/agility-game/dokploy/assets/1499433/f75ff816-4646-4b83-b12f-ee56c885609b)
 
+Click on **Merge pull request**.
+
+![github_dokploy_home_webhook-011](https://github.com/agility-game/dokploy/assets/1499433/06686570-1ff6-4a06-8e25-bf98357436d3)
+
 MORE
