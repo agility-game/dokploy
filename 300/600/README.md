@@ -162,20 +162,26 @@ You will see a confirmation that the pull request was successfully merged and cl
 
 The ```pull``` event will have triggered the webhook. Let's see if it has been successful.
 
-![github_dokploy_home_webhook-014](https://github.com/agility-game/dokploy/assets/1499433/78b39e52-0c35-466b-aa22-1fb77a206caa)
+![github_dokploy_home_webhook-014](https://github.com/agility-game/dokploy/assets/1499433/f66556d5-6f10-4d82-8791-794bd13a6fb8)
 
-From the red triangle it shows a **failed** attempt.
+From the green tick it shows a **successful** delivery.
 
-Click on the blue text next to the red traingle to inspect what has happened.
+Click on the blue text next to the green check to inspect what has happened.
 
-![github_dokploy_home_webhook-015](https://github.com/agility-game/dokploy/assets/1499433/9f79032b-919d-47fd-98cc-b6bae1dd6aa6)
+![github_dokploy_home_webhook-015](https://github.com/agility-game/dokploy/assets/1499433/3f626f7e-0d82-44cc-b0f2-3d891e02c975)
 
-Let's look at the latest delivery.
+The response states ```{"message":"App Deployed Successfully"}```.
 
-![github_dokploy_home_webhook-016](https://github.com/agility-game/dokploy/assets/1499433/dbfb23d5-ca4c-4d82-8d0c-8267c7d1d35b)
+Hooray!!
 
-The response states ```{"message":"Branch Not Match"}```.
+Now check in dokploy if we have indeed triggered a new deployment.
 
+![github_dokploy_home_webhook-016](https://github.com/agility-game/dokploy/assets/1499433/a71019ae-1947-4806-be70-c7932fd1d5f3)
 
+Indeed, the application was deployed based on the webhook being triggered from Github.
 
-MORE
+Finally, check the web page if we can see the change, in this case the addition of ```(v1)```.
+
+![github_dokploy_home_webhook-017](https://github.com/agility-game/dokploy/assets/1499433/76362a03-5b76-478f-9f4f-37bc011d0e53)
+
+All good.
