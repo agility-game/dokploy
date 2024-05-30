@@ -152,4 +152,8 @@ Click on **Merge pull request**.
 
 ![github_dokploy_home_webhook-011](https://github.com/agility-game/dokploy/assets/1499433/06686570-1ff6-4a06-8e25-bf98357436d3)
 
+Click on **Confirm merge**.
+
+![github_dokploy_home_webhook-012](https://github.com/agility-game/dokploy/assets/1499433/9ee35054-c4bf-4955-a48e-3b66520aacc1)
+
 MORE
