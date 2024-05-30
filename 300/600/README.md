@@ -108,10 +108,12 @@ Now go to the repository in Github (here: https://github.com/agility-game/dokplo
 
 Click on the **Add webhook** button.
 
-== IMAGE GOES HERE ==
+![github_dokploy_home_webhook-002](https://github.com/agility-game/dokploy/assets/1499433/3a795b02-2ca7-4a78-8241-dc664caf078d)
 
-Paste the previously copied Webhook URL in the text field.
+Paste the previously copied Webhook URL in the **Payload URL** field. Keep the default for **Content type**, here ```application/x-www-form-urlencoded```. Leave **Secret** blank. Check **Enable SSL verification**. For now, check **Just the ```push``` event**. And set the webhook to **Active**. 
 
-== IMAGE GOES HERE ==
+Finally click **Add webhook**.
+
+![github_dokploy_home_webhook-003](https://github.com/agility-game/dokploy/assets/1499433/95bcb71e-4dbd-4e3f-85eb-0f95d20e1f56)
 
 MORE
