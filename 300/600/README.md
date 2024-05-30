@@ -160,6 +160,22 @@ You will see a confirmation that the pull request was successfully merged and cl
 
 ![github_dokploy_home_webhook-013](https://github.com/agility-game/dokploy/assets/1499433/62828064-bce4-48e4-b277-5ed093e1a93a)
 
-The ```pull``` event will have triggered the webhook.
+The ```pull``` event will have triggered the webhook. Let's see if it has been successful.
+
+![github_dokploy_home_webhook-014](https://github.com/agility-game/dokploy/assets/1499433/78b39e52-0c35-466b-aa22-1fb77a206caa)
+
+From the red triangle it shows a **failed** attempt.
+
+Click on the blue text next to the red traingle to inspect what has happened.
+
+![github_dokploy_home_webhook-015](https://github.com/agility-game/dokploy/assets/1499433/9f79032b-919d-47fd-98cc-b6bae1dd6aa6)
+
+Let's look at the latest delivery.
+
+![github_dokploy_home_webhook-016](https://github.com/agility-game/dokploy/assets/1499433/dbfb23d5-ca4c-4d82-8d0c-8267c7d1d35b)
+
+The response states ```{"message":"Branch Not Match"}.
+
+
 
 MORE
