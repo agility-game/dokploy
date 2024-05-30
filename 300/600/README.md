@@ -116,4 +116,10 @@ Finally click **Add webhook**.
 
 ![github_dokploy_home_webhook-003](https://github.com/agility-game/dokploy/assets/1499433/95bcb71e-4dbd-4e3f-85eb-0f95d20e1f56)
 
+Go back to the webhook settings and under the tab **Recent Deliveries** verify if an initial ping command for this webhook has a tick in front of it for being successful.
+
+![github_dokploy_home_webhook-004](https://github.com/agility-game/dokploy/assets/1499433/84d4646b-a586-4183-8434-1fadfa227d68)
+
+Here, we have been successful so when can continue.
+
 MORE
