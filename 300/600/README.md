@@ -98,4 +98,20 @@ From the ```Monitoring``` tab on Dokploy you can see the performance of the Fron
 
 Now automate the deployment process by means of Dokploy's webhook, see [Autodeploy](https://docs.dokploy.com/application/overview)
 
-TO DO
+Under the tab **Deployments** of the Frontend application in the Home project, copy the Webhook URL (here: https://dokploy.agility-game.com/api/deploy/84vv_PIWLe4lCOjGJTkxE).
+
+![webhook_url_frontend_application_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/34647a34-0884-4aaf-9518-8a249935a68b)
+
+Now go to the repository in Github (here: https://github.com/agility-game/dokploy-home) and open the tab **Settings**, choose **Webhooks** from the sidebar menu.
+
+== IMAGE GOES HERE ==
+
+Click on the **Add webhook** button.
+
+== IMAGE GOES HERE ==
+
+Paste the previously copied Webhook URL in the text field.
+
+== IMAGE GOES HERE ==
+
+MORE
