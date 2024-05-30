@@ -174,7 +174,7 @@ Let's look at the latest delivery.
 
 ![github_dokploy_home_webhook-016](https://github.com/agility-game/dokploy/assets/1499433/dbfb23d5-ca4c-4d82-8d0c-8267c7d1d35b)
 
-The response states ```{"message":"Branch Not Match"}.
+The response states ```{"message":"Branch Not Match"}```.
 
 
 
