@@ -104,7 +104,7 @@ Under the tab **Deployments** of the Frontend application in the Home project, c
 
 Now go to the repository in Github (here: https://github.com/agility-game/dokploy-home) and open the tab **Settings**, choose **Webhooks** from the sidebar menu.
 
-== IMAGE GOES HERE ==
+![github_dokploy_home_webhook-001](https://github.com/agility-game/dokploy/assets/1499433/ffd138fa-4f48-4fc6-bcf5-bd90abed184a)
 
 Click on the **Add webhook** button.
 
