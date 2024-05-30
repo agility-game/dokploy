@@ -128,4 +128,10 @@ Let's create a new test branch in the Github repository (here: https://github.co
 
 Click on the **Create branch test/no-ref/testing-webhook from main** text so the branch gets created.
 
+You will have been switched to the newly created branch automatically.
+
+![github_dokploy_home_webhook-006](https://github.com/agility-game/dokploy/assets/1499433/1981d75b-b309-44f2-b703-bac9652fcf7a)
+
+
+
 MORE
