@@ -156,4 +156,10 @@ Click on **Confirm merge**.
 
 ![github_dokploy_home_webhook-012](https://github.com/agility-game/dokploy/assets/1499433/9ee35054-c4bf-4955-a48e-3b66520aacc1)
 
+You will see a confirmation that the pull request was successfully merged and closed.
+
+![github_dokploy_home_webhook-013](https://github.com/agility-game/dokploy/assets/1499433/62828064-bce4-48e4-b277-5ed093e1a93a)
+
+The ```pull``` event will have triggered the webhook.
+
 MORE
