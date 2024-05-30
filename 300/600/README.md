@@ -140,7 +140,7 @@ Now commit your change.
 
 ![github_dokploy_home_webhook-008](https://github.com/agility-game/dokploy/assets/1499433/22cb7e9d-4c10-4080-8c30-d668972db93b)
 
-You'll be notified the your branch had recent pushes, so click the **Compare & pull request** button.
+You'll be notified that your branch had recent pushes, so click the **Compare & pull request** button.
 
 ![github_dokploy_home_webhook-009](https://github.com/agility-game/dokploy/assets/1499433/29cf286e-08e7-465c-b17a-7b5f816db2ae)
 
