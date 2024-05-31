@@ -36,6 +36,8 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 ![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/9d5c4f71-ee13-487b-8e88-0d257b368140)
 
+== NEW IMAGE GOES HERE ==
+
 As the branch type **main** and click **Save**.
 
 Next, click on **Deploy**.
