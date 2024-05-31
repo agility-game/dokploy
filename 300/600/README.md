@@ -34,11 +34,9 @@ Click on the ```Frontend``` application to configure it.
 
 In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
 
-![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/9d5c4f71-ee13-487b-8e88-0d257b368140)
+![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/7de66593-5267-465b-a579-2eff6dfa821c)
 
-== NEW IMAGE GOES HERE ==
-
-As the branch type **main** and click **Save**.
+As the branch type **main** and click **Save**. In addition, as we are using a Dockerfile to configure our Frontend application, set the **Build Type** to ```Dockerfile``` and set **Docker File** to ```/```, meaning it should look for the provided Dockerfile in the root of our application directory and click **Save**.
 
 Next, click on **Deploy**.
 
