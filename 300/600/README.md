@@ -34,9 +34,9 @@ Click on the ```Frontend``` application to configure it.
 
 In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
 
-![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/7de66593-5267-465b-a579-2eff6dfa821c)
+![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/81de42f2-dca2-46ed-a911-20f950d22ee6)
 
-As the branch type **main** and click **Save**. In addition, as we are using a Dockerfile to configure our Frontend application, set the **Build Type** to ```Dockerfile``` and set **Docker File** to ```/```, meaning it should look for the provided Dockerfile in the root of our application directory and click **Save**.
+As the branch type **main** and click **Save**. In addition, as we are using Nixpacks to configure our Frontend application, set the **Build Type** to ```Nixpacks``` and click **Save**.
 
 Next, click on **Deploy**.
 
