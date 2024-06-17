@@ -36,7 +36,7 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 ![configure_service_application_frontend_in_home-001](https://github.com/agility-game/dokploy/assets/1499433/81de42f2-dca2-46ed-a911-20f950d22ee6)
 
-As the branch type **main** and click **Save**. In addition, as we are using Nixpacks to configure our Frontend application, set the **Build Type** to ```Nixpacks``` and click **Save**.
+As the branch type **main** and click **Save**. In addition, as we are using Nixpacks to configure our Frontend application, set the **Build Type** to ```Nixpacks``` and click **Save**. This will make use of the file **flake.nix** that is in the root directory of our repository ```dokploy-home``` (**note**: we are not using a Dockerfile as it is too difficult to get it to be customized for NginX for acting as a reverse proxy). See also [Matthew Croughan - Use flake.nix, not Dockerfile - MCH2022](https://www.youtube.com/watch?v=0uixRE8xlbY).
 
 Next, click on **Deploy**.
 
