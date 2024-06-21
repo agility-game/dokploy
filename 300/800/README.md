@@ -12,7 +12,11 @@ Copy the below URL:
 https://github.com/agility-game/dokploy-app.git
 ```
 
-On the Projects page of Dokploy click + Create Project button. Give it a name (here: App) and a description (here: App application) and click Create button.
+On the Projects page of Dokploy click + Create Project button. Give it a name (here: App) and a description (here: App application) and click **Create** button.
+
+![create_a_new_project_app-001](https://github.com/agility-game/dokploy/assets/1499433/62f5ee76-9ee7-4d19-879b-ce98b988dddf)
+
+Once the project has been created, inside the project click **+ Create Service** and from the Actions choose **Application** (not Database):
 
 == IMAGE GOES HERE ==
 
