@@ -111,9 +111,9 @@ You will see the log of the deployment:
 
 When successful, the log will state ```Docker Compose Deployed: tickbox```
 
-Switch to the tab **Logs** to see any issues. Also check the start **start worker process**:
+Switch to the tab **Logs** to see any issues.
 
-== IMAGE GOES HERE ==
+![deploy_app_service_frontend-004](https://github.com/agility-game/dokploy/assets/1499433/1b0ebcab-f20f-4182-89d5-2458e90d2f15)
 
 
 MORE
