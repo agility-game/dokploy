@@ -38,4 +38,10 @@ Our new Docker Compose service is listed as ```Frontend```.
 
 ![create_a_new_app_service_frontend-001](https://github.com/agility-game/dokploy/assets/1499433/47016366-5886-4ceb-aa59-123b1349f3fc)
 
+Click on the ```Frontend``` application to configure it.
+
+In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
+
+== IMAGE GOES HERE ==
+
 MORE
