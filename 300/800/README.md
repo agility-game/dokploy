@@ -52,7 +52,7 @@ Next, click on the tab **Advanced**.
 
 Click on **Add Volume**.
 
-![configure_app_service_frontend-003](https://github.com/agility-game/dokploy/assets/1499433/baad7ff0-fd77-4dbb-99bb-98ee3889815e)
+![configure_app_service_frontend-003](https://github.com/agility-game/dokploy/assets/1499433/bc0df389-25f4-44af-9297-04186224769b)
 
 For readability, see the **Content** below:
 
