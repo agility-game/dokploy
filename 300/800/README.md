@@ -18,6 +18,8 @@ On the Projects page of Dokploy click **+ Create Project** button. Give it a nam
 
 Once the project has been created, inside the project click **+ Create Service** and from the Actions choose **Compose** (not Application):
 
+**NOTE**: If the option ```Compose``` is not showing, consider upgrading your Dokploy instance. This is a newer feature, not found in older versions of Dokploy. You can upgrade your Dokploy server from within Dokploy.
+
 ![create_a_new_app_service-001](https://github.com/agility-game/dokploy/assets/1499433/856e550b-8e03-4a87-812f-7cf5721e714e)
 
 For the name of the Application Service let's use ```Frontend``` and for the Description ```Frontend of App```, like so:
