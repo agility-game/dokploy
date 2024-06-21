@@ -30,7 +30,7 @@ See [README.md](./600/README.md)
 
 See [README.md](./700/README.md)
 
-## 800 - Create a Docker Compose Project in Dokploy on Server on Hetzner
+## 800 - Create an App Project in Dokploy on Server on Hetzner
 
 See [README.md](./800/README.md)
 
