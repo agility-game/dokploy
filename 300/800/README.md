@@ -99,3 +99,18 @@ Go back to the tab **General** and click on **Deploy**.
 
 When prompted, choose **Confirm**.
 
+The deploy process will start, as can be seen from the spinning wheel.
+
+Once the deployment has completed, go to the tab **Deployments**. We can see the manual deployment listed. Click **View**.
+
+![deploy_app_service_frontend-002](https://github.com/agility-game/dokploy/assets/1499433/ac271a48-db64-4366-88df-a881aaaa1a91)
+
+You will see the log of the deployment:
+
+== IMAGE GOES HERE ==
+
+
+
+
+MORE
+
