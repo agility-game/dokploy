@@ -107,9 +107,13 @@ Once the deployment has completed, go to the tab **Deployments**. We can see the
 
 You will see the log of the deployment:
 
+![deploy_app_service_frontend-003](https://github.com/agility-game/dokploy/assets/1499433/20c55f54-40a5-42a1-ab36-4cbe72a162e8)
+
+When successful, the log will state ```Docker Compose Deployed: tickbox```
+
+Switch to the tab **Logs** to see any issues. Also check the start **start worker process**:
+
 == IMAGE GOES HERE ==
-
-
 
 
 MORE
