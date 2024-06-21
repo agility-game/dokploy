@@ -36,6 +36,6 @@ Click the **Create** button.
 
 Our new Docker Compose service is listed as ```Frontend```.
 
-== IMAGE GOES HERE ==
+![create_a_new_app_service_frontend-001](https://github.com/agility-game/dokploy/assets/1499433/47016366-5886-4ceb-aa59-123b1349f3fc)
 
 MORE
