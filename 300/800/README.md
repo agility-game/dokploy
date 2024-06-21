@@ -89,8 +89,13 @@ Next, click on **Deploy**.
 
 When prompted, choose **Confirm**.
 
-== IMAGE GOES HERE ==
+![configure_app_service_frontend-004](https://github.com/agility-game/dokploy/assets/1499433/c6523a69-0621-4fa5-8135-b948fcdabfbe)
 
+We are being reminded: ```Please remeber to click Redeploy after adding, editing, or deleting a mount to apply the changes```. Follow up on this advice.
 
+Go back to the tab **General** and click on **Deploy**.
 
-MORE
+![deploy_app_service_frontend-001](https://github.com/agility-game/dokploy/assets/1499433/a89b629f-145e-44dc-b89c-dca14f1d8ab2)
+
+When prompted, choose **Confirm**.
+
