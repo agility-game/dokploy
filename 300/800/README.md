@@ -142,6 +142,8 @@ You will see a banner with the text: ```Okay, that hook was successfully created
 
 Now whenever a change is merged into the main branch of this repository, automatically the service in Dokploy will be updated and restarted with the new changes.
 
+Should the webhook fail (example response: ```Compose not deployable```), try clicking the button **Autodeploy** in Dokploy > App > Frontend under tab **General**.Then ```redeliver``` the Webhook from Github.
+
 MORE
 
 Now, switch to the tab **Domains** in project **App**, service **Frontend** and click **Add Domain**.
