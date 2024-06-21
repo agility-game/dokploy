@@ -128,14 +128,15 @@ Copy the Webhook URL from Dokploy App project Frontend service:
 
 Now in the Github repository https://github.com/agility-game/dokploy-app go to the **Settings**.
 
-From the lft-hand menu click on **Webhooks**.
+From the lft-hand menu click on **Webhooks**. If no webhook has been created before, click **Add Webhook**.
 
 In the tab **Settings** enter the following values (where the ```Payload URL``` is the ```Webhook URL``` you copied from Dokploy):
 
-== IMAGE GOES HERE ==
+![configure_app_service_frontend_webhook-002](https://github.com/agility-game/dokploy/assets/1499433/5d2124ef-3cd1-4b6d-951a-672a8ffb4f0e)
 
+Make sure to choose ```application/json``` for **Content type**.
 
-
+Click **Add webhook**.
 
 
 
