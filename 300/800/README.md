@@ -122,6 +122,24 @@ If you go back to the Dokploy Dashboard and open the tab **Docker**, you should 
 
 == TO DO: PUT VERIFICATION IN BROWSER OF NGINX RUNNING HERE ==
 
+Copy the Webhook URL from Dokploy App project Frontend service:
+
+![configure_app_service_frontend_webhook-001](https://github.com/agility-game/dokploy/assets/1499433/a76605d4-6542-4a77-bd79-060361650932)
+
+Now in the Github repository https://github.com/agility-game/dokploy-app go to the **Settings**.
+
+From the lft-hand menu click on **Webhooks**.
+
+In the tab **Settings** enter the following values (where the ```Payload URL``` is the ```Webhook URL``` you copied from Dokploy):
+
+== IMAGE GOES HERE ==
+
+
+
+
+
+
+
 Now, switch to the tab **Domains** in project **App**, service **Frontend** and click **Add Domain**.
 
 == IMAGE GOES HERE ==
