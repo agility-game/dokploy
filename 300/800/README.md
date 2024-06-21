@@ -24,10 +24,18 @@ Once the project has been created, inside the project click **+ Create Service**
 
 For the name of the Compose Service let's use ```Frontend``` and for the Description ```Frontend of App```, like so:
 
-![create_a_new_app_service_compose-001](https://github.com/agility-game/dokploy/assets/1499433/3bd41d37-d683-4ab4-b3e3-18b1586da64a)
+![create_a_new_app_service_compose-001](https://github.com/agility-game/dokploy/assets/1499433/63a58cc9-7a90-443f-8d91-d87f217a0a6e)
 
-**NOTE**: The default entry for AppName uses the ```app-[Name]``` format, where the ```Name``` is capitalized. We follow this convention.
+**NOTE**: The default entry for AppName uses the ```app-[Name]``` format, where the ```Name``` is capitalized. However, this causes an error. We follow the convention to keep all lowercase (here: ```app-frontend```).
 
 For Compose Type, we choose ```Docker Compose```!
+
+Click the **Create** button. 
+
+*NOTE*: You may have to click outside of the dialogue to come back to the main page.
+
+Our new Docker Compose service is listed as ```Frontend```.
+
+== IMAGE GOES HERE ==
 
 MORE
