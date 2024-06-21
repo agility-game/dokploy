@@ -46,6 +46,8 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 As the branch type **main**, for compose path type **./docker-compose.yml** and click **Save**.
 
+==== START: THIS STEP IS NO LONGER TAKEN: INSTEAD THE nginx.conf FILE IS KEPT WITHIN THE REPOSITORY ====
+
 Next, click on the tab **Advanced**.
 
 ![configure_app_service_frontend-002](https://github.com/agility-game/dokploy/assets/1499433/86ca85f3-9db1-4aab-a102-f6387674b52c)
@@ -82,8 +84,7 @@ And the **Mount Path**:
 
 Click **Create**.
 
-MORE
-
+==== END: THIS STEP IS NO LONGER TAKEN: INSTEAD THE nginx.conf FILE IS KEPT WITHIN THE REPOSITORY ====
 
 Next, click on **Deploy**.
 
