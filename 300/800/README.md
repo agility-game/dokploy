@@ -144,11 +144,4 @@ Now whenever a change is merged into the main branch of this repository, automat
 
 Should the webhook fail (example response: ```Compose not deployable```), try clicking the button **Autodeploy** in Dokploy > App > Frontend under tab **General**. Then ```redeliver``` the Webhook from Github.
 
-MORE
-
-Now, switch to the tab **Domains** in project **App**, service **Frontend** and click **Add Domain**.
-
-== IMAGE GOES HERE ==
-
-MORE
-
+Unlike ```Applications```, ```Docker Compose``` sets the unique entry point in the Docker compose file, which matches with the A record (e.g. ```nginx.agility-game.com```). The URL https://nginx.agility-game.com will thus forward to our ```nginx``` service.
