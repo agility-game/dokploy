@@ -46,6 +46,17 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 As the branch type **main**, for compose path type **./docker-compose.yml** and click **Save**.
 
+Next, click on the tab **Advanced**.
+
+![configure_app_service_frontend-002](https://github.com/agility-game/dokploy/assets/1499433/86ca85f3-9db1-4aab-a102-f6387674b52c)
+
+Click on **Add Volume**.
+
+== IMAGE GOES HERE ==
+
+MORE
+
+
 Next, click on **Deploy**.
 
 When prompted, choose **Confirm**.
