@@ -128,7 +128,7 @@ Copy the Webhook URL from Dokploy App project Frontend service:
 
 Now in the Github repository https://github.com/agility-game/dokploy-app go to the **Settings**.
 
-From the lft-hand menu click on **Webhooks**. If no webhook has been created before, click **Add Webhook**.
+From the lft-hand menu click on **Webhooks**. If no webhook has been created before, click **Add webhook**.
 
 In the tab **Settings** enter the following values (where the ```Payload URL``` is the ```Webhook URL``` you copied from Dokploy):
 
@@ -138,8 +138,11 @@ Make sure to choose ```application/json``` for **Content type**.
 
 Click **Add webhook**.
 
+You will see a banner with the text: ```Okay, that hook was successfully created. We sent a ping payload to test it out! Read more about it at https://docs.github.com/webhooks/#ping-event.```.
 
+Now whenever a change is merged into the main branch of this repository, automatically the service in Dokploy will be updated and restarted with the new changes.
 
+MORE
 
 Now, switch to the tab **Domains** in project **App**, service **Frontend** and click **Add Domain**.
 
