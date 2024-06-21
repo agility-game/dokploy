@@ -116,5 +116,9 @@ Switch to the tab **Logs** to see any issues.
 ![deploy_app_service_frontend-004](https://github.com/agility-game/dokploy/assets/1499433/1b0ebcab-f20f-4182-89d5-2458e90d2f15)
 
 
+If you go back to the Dokploy Dashboard and open the tab **Docker**, you should see the Docker containers as **Running**:
+
+![deploy_app_service_frontend-005](https://github.com/agility-game/dokploy/assets/1499433/f33ae2ee-cb89-4607-a6a8-d746bf27de3e)
+
 MORE
 
