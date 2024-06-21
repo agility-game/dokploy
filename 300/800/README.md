@@ -84,8 +84,6 @@ And the **Mount Path**:
 
 Click **Create**.
 
-==== END: THIS STEP IS NO LONGER TAKEN: INSTEAD THE nginx.conf FILE IS KEPT WITHIN THE REPOSITORY ====
-
 Next, click on **Deploy**.
 
 When prompted, choose **Confirm**.
@@ -93,6 +91,8 @@ When prompted, choose **Confirm**.
 ![configure_app_service_frontend-004](https://github.com/agility-game/dokploy/assets/1499433/c6523a69-0621-4fa5-8135-b948fcdabfbe)
 
 We are being reminded: ```Please remeber to click Redeploy after adding, editing, or deleting a mount to apply the changes```. Follow up on this advice.
+
+==== END: THIS STEP IS NO LONGER TAKEN: INSTEAD THE nginx.conf FILE IS KEPT WITHIN THE REPOSITORY ====
 
 Go back to the tab **General** and click on **Deploy**.
 
