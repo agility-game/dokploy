@@ -62,7 +62,7 @@ events {}
 http {
     server {
         listen 80;
-        server_name: localhost;
+        server_name localhost;
         location / {
             proxy_pass http://whoami:80;
             proxy_set_header Host $host;
