@@ -120,5 +120,11 @@ If you go back to the Dokploy Dashboard and open the tab **Docker**, you should 
 
 ![deploy_app_service_frontend-005](https://github.com/agility-game/dokploy/assets/1499433/f33ae2ee-cb89-4607-a6a8-d746bf27de3e)
 
+== TO DO: PUT VERIFICATION IN BROWSER OF NGINX RUNNING HERE ==
+
+Now, switch to the tab **Domains** in project **App**, service **Frontend** and click **Add Domain**.
+
+== IMAGE GOES HERE ==
+
 MORE
 
