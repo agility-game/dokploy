@@ -2,6 +2,18 @@
 
 Login to the Dokploy page at https://dokploy.agility-game.com and you'll be directed to the projects page:
 
+![create_a_new_project-001](https://github.com/agility-game/dokploy/assets/1499433/8cd7133a-8ddc-4d1c-b643-7806c63a7d97)
 
+We are going to upload an app application, which can be found at https://github.com/agility-game/dokploy-app
+
+Copy the below URL:
+
+```
+https://github.com/agility-game/dokploy-app.git
+```
+
+On the Projects page of Dokploy click + Create Project button. Give it a name (here: App) and a description (here: App application) and click Create button.
+
+== IMAGE GOES HERE ==
 
 MORE
