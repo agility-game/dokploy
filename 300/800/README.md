@@ -145,3 +145,32 @@ Now whenever a change is merged into the main branch of this repository, automat
 Should the webhook fail (example response: ```Compose not deployable```), try clicking the button **Autodeploy** in Dokploy > App > Frontend under tab **General**. Then ```redeliver``` the Webhook from Github.
 
 Unlike ```Applications```, ```Docker Compose``` sets the unique entry point in the Docker compose file, which matches with the A record (e.g. ```nginx.agility-game.com```). The URL https://nginx.agility-game.com will thus forward to our ```nginx``` service.
+
+```
+services:
+  nginx:
+    image: nginx:latest
+    ports:
+      - "8081:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    networks:
+      - dokploy-network
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.nginx.rule=Host(`agility-game.com`)"
+      - "traefik.http.routers.nginx.entrypoints=websecure"
+      - "traefik.http.routers.nginx.tls.certResolver=letsencrypt"
+      - "traefik.http.services.nginx.loadbalancer.server.port=8081"
+  whoami:
+    image: traefik/whoami
+    ports:
+      - "80"
+    networks:
+      - dokploy-network
+
+networks:
+  dokploy-network:
+    external: true
+```
+docker-compose.yml
