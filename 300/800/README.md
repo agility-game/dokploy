@@ -52,7 +52,35 @@ Next, click on the tab **Advanced**.
 
 Click on **Add Volume**.
 
-== IMAGE GOES HERE ==
+![configure_app_service_frontend-003](https://github.com/agility-game/dokploy/assets/1499433/baad7ff0-fd77-4dbb-99bb-98ee3889815e)
+
+For readability, see the **Content** below:
+
+```
+events {}
+
+http {
+    server {
+        listen 80;
+        server_name: localhost;
+        location / {
+            proxy_pass http://whoami:80;
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+        }
+    }
+}
+```
+
+And the **Mount Path**:
+
+```
+./nginx.conf
+```
+
+Click **Create**.
 
 MORE
 
