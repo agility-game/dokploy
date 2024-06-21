@@ -20,4 +20,8 @@ Once the project has been created, inside the project click **+ Create Service**
 
 == IMAGE GOES HERE ==
 
+For the name of the Application Service let's use ```Frontend``` and for the Description ```Frontend of App```, like so:
+
+== IMAGE GOES HERE ==
+
 MORE
