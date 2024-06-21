@@ -16,9 +16,9 @@ On the Projects page of Dokploy click **+ Create Project** button. Give it a nam
 
 ![create_a_new_project_app-001](https://github.com/agility-game/dokploy/assets/1499433/62f5ee76-9ee7-4d19-879b-ce98b988dddf)
 
-Once the project has been created, inside the project click **+ Create Service** and from the Actions choose **Application** (not Database):
+Once the project has been created, inside the project click **+ Create Service** and from the Actions choose **Compose** (not Application):
 
-![create_a_new_app_service-001](https://github.com/agility-game/dokploy/assets/1499433/8d3eb225-7239-4753-b118-14665fc31a96)
+![create_a_new_app_service-001](https://github.com/agility-game/dokploy/assets/1499433/856e550b-8e03-4a87-812f-7cf5721e714e)
 
 For the name of the Application Service let's use ```Frontend``` and for the Description ```Frontend of App```, like so:
 
