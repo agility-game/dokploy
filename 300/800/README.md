@@ -46,12 +46,9 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 As the branch type **main**, for compose path type **./docker-compose.yml** and click **Save**.
 
-
-
+Configure the ```Environment Settings``` under the tab **Environment** as follows and click **Save**:
 
 ![configure_app_service_frontend_environment-001](https://github.com/agility-game/dokploy-app/assets/1499433/7a6f1727-f2a3-4b1b-9439-144c317f0c08)
-
-
 
 ==== START: THIS STEP IS NO LONGER TAKEN: INSTEAD THE nginx.conf FILE IS KEPT WITHIN THE REPOSITORY ====
 
