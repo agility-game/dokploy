@@ -46,7 +46,7 @@ In the configuration page, paste the previously copied URL into the field Reposi
 
 As the branch type **main**, for compose path type **./docker-compose.yml** and click **Save**.
 
-Configure the ```Environment Settings``` under the tab **Environment** as follows:
+Configure the ```Environment Settings``` under the tab **Environment** as follows and click **Save**:
 
 ![configure_api_service_frontend_environment-001](https://github.com/agility-game/dokploy/assets/1499433/1d87cf00-ad1c-4eb2-9cb8-14bc7103bf6f)
 
