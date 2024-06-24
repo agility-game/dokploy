@@ -36,4 +36,11 @@ Click the **Create** button.
 
 Our new Docker Compose service is listed as ```Frontend```.
 
+== IMAGE GOES HERE ==
+
+Click on the ```Frontend``` application to configure it.
+
+In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
+
+
 MORE
