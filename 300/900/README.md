@@ -76,6 +76,14 @@ If you go back to the Dokploy Dashboard and open the tab **Docker**, you should 
 
 Copy the Webhook URL from Dokploy Api project Frontend service:
 
+![configure_api_service_frontend_webhook-001](https://github.com/agility-game/dokploy/assets/1499433/46b0fcb9-77e4-4854-b758-3c6ee66151b7)
+
+Now in the Github repository https://github.com/agility-game/dokploy-api go to the **Settings**.
+
+From the left-hand menu click on **Webhooks**. If no webhook has been created before, click **Add webhook**.
+
+In the tab **Settings** enter the following values (where the ```Payload URL``` is the ```Webhook URL``` you copied from Dokploy):
+
 
 
 MORE
