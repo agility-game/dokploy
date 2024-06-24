@@ -32,7 +32,7 @@ For Compose Type, we choose ```Docker Compose```!
 
 Click the **Create** button. 
 
-*NOTE*: You may have to click outside of the dialogue to come back to the main page.
+*NOTE*: You may have to click outside of the dialogue or the X in the right top corner to come back to the main page.
 
 Our new Docker Compose service is listed as ```Frontend```.
 
