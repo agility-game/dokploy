@@ -22,7 +22,7 @@ Once the project has been created, inside the project click **+ Create Service**
 
 ![create_a_new_api_service-001](https://github.com/agility-game/dokploy/assets/1499433/1c87bf74-b94f-4847-a774-12bf9571d394)
 
-For the name of the Compose Service let's use ```Frontend``` and for the Description ```Frontend of App```, like so:
+For the name of the Compose Service let's use ```Frontend``` and for the Description ```Frontend of Api```, like so:
 
 ![create_a_new_api_service_compose-001](https://github.com/agility-game/dokploy/assets/1499433/2d146f9f-9ada-4831-bfa6-a161dbd7948e)
 
