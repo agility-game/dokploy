@@ -56,4 +56,26 @@ The deploy process will start, as can be seen from the spinning wheel.
 
 Once the deployment has completed, go to the tab **Deployments**. We can see the manual deployment listed. Click **View**.
 
+![deploy_api_service_frontend-002](https://github.com/agility-game/dokploy/assets/1499433/690fe62e-7d13-4942-882d-a13a61fe871e)
+
+You will see the log of the deployment:
+
+![deploy_api_service_frontend-003](https://github.com/agility-game/dokploy/assets/1499433/ae55d8b7-81cd-44a9-9bbe-a49b9ebc806f)
+
+When successful, the log will state ```Docker Compose Deployed: tickbox```
+
+Switch to the tab **Logs** to see any issues.
+
+![deploy_api_service_frontend-004](https://github.com/agility-game/dokploy/assets/1499433/7671ab09-8d47-4f55-8fcc-1dc74875181c)
+
+If you go back to the Dokploy Dashboard and open the tab **Docker**, you should see the Docker containers as **Running**:
+
+![deploy_api_service_frontend-005](https://github.com/agility-game/dokploy/assets/1499433/e3b9a236-a494-4cf9-a155-83b4c1211398)
+
+== TO DO: PUT VERIFICATION IN BROWSER OF NGINX RUNNING HERE ==
+
+Copy the Webhook URL from Dokploy App project Frontend service:
+
+
+
 MORE
