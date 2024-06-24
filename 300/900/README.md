@@ -84,6 +84,45 @@ From the left-hand menu click on **Webhooks**. If no webhook has been created be
 
 In the tab **Settings** enter the following values (where the ```Payload URL``` is the ```Webhook URL``` you copied from Dokploy):
 
+![configure_api_service_frontend_webhook-002](https://github.com/agility-game/dokploy/assets/1499433/3b682dd9-23c4-43f1-89e1-aef1c9e50dc8)
 
+Make sure to choose ```application/json``` for **Content type**.
 
-MORE
+Click **Add webhook**.
+
+You will see a banner with the text: ```Okay, that hook was successfully created. We sent a ping payload to test it out! Read more about it at https://docs.github.com/webhooks/#ping-event.```.
+
+Now whenever a change is merged into the main branch of this repository, automatically the service in Dokploy will be updated and restarted with the new changes.
+
+Should the webhook fail (example response: ```Compose not deployable```), try clicking the button **Autodeploy** in Dokploy > App > Frontend under tab **General**. Then ```redeliver``` the Webhook from Github.
+
+Unlike ```Applications```, ```Docker Compose``` sets the unique entry point in the Docker compose file, which matches with the A record (e.g. ```api.agility-game.com```). The URL https://api.agility-game.com will thus forward to our ```nginx``` service.
+
+```
+services:
+  nginx:
+    image: nginx:latest
+    ports:
+      - "8082:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    networks:
+      - dokploy-network
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.api.rule=Host(`agility-game.com`)"
+      - "traefik.http.routers.api.entrypoints=websecure"
+      - "traefik.http.routers.api.tls.certResolver=letsencrypt"
+      - "traefik.http.services.api.loadbalancer.server.port=8082"
+  whoami:
+    image: traefik/whoami
+    ports:
+      - "80"
+    networks:
+      - dokploy-network
+
+networks:
+  dokploy-network:
+    external: true
+```
+docker-compose.yml
