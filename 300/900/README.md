@@ -42,5 +42,18 @@ Click on the ```Frontend``` application to configure it.
 
 In the configuration page, paste the previously copied URL into the field Repository URL under the **Git** tab:
 
+![configure_api_service_frontend-002](https://github.com/agility-game/dokploy/assets/1499433/6e18a416-0dbb-46b9-a9d5-bb18df881da0)
+
+As the branch type **main**, for compose path type **./docker-compose.yml** and click **Save**.
+
+Go back to the tab **General** and click on **Deploy**.
+
+== IMAGE GOES HERE ==
+
+When prompted, choose **Confirm**.
+
+The deploy process will start, as can be seen from the spinning wheel.
+
+Once the deployment has completed, go to the tab **Deployments**. We can see the manual deployment listed. Click **View**.
 
 MORE
