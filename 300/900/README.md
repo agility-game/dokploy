@@ -12,4 +12,9 @@ Copy the below URL:
 https://github.com/agility-game/dokploy-api.git
 ```
 
+On the Projects page of Dokploy click **+ Create Project** button. Give it a name (here: ```Api```) and a description (here: ```Api application```) and click **Create** button.
+
+
+
+
 MORE
