@@ -48,7 +48,7 @@ As the branch type **main**, for compose path type **./docker-compose.yml** and 
 
 Go back to the tab **General** and click on **Deploy**.
 
-== IMAGE GOES HERE ==
+![deploy_api_service_frontend-001](https://github.com/agility-game/dokploy/assets/1499433/07929de0-7e0c-4cf2-ab35-cde873125c3b)
 
 When prompted, choose **Confirm**.
 
