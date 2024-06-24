@@ -128,7 +128,7 @@ Copy the Webhook URL from Dokploy App project Frontend service:
 
 Now in the Github repository https://github.com/agility-game/dokploy-app go to the **Settings**.
 
-From the lft-hand menu click on **Webhooks**. If no webhook has been created before, click **Add webhook**.
+From the left-hand menu click on **Webhooks**. If no webhook has been created before, click **Add webhook**.
 
 In the tab **Settings** enter the following values (where the ```Payload URL``` is the ```Webhook URL``` you copied from Dokploy):
 
@@ -144,7 +144,7 @@ Now whenever a change is merged into the main branch of this repository, automat
 
 Should the webhook fail (example response: ```Compose not deployable```), try clicking the button **Autodeploy** in Dokploy > App > Frontend under tab **General**. Then ```redeliver``` the Webhook from Github.
 
-Unlike ```Applications```, ```Docker Compose``` sets the unique entry point in the Docker compose file, which matches with the A record (e.g. ```nginx.agility-game.com```). The URL https://nginx.agility-game.com will thus forward to our ```nginx``` service.
+Unlike ```Applications```, ```Docker Compose``` sets the unique entry point in the Docker compose file, which matches with the A record (e.g. ```app.agility-game.com```). The URL https://app.agility-game.com will thus forward to our ```nginx``` service.
 
 ```
 services:
@@ -158,10 +158,10 @@ services:
       - dokploy-network
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.nginx.rule=Host(`agility-game.com`)"
-      - "traefik.http.routers.nginx.entrypoints=websecure"
-      - "traefik.http.routers.nginx.tls.certResolver=letsencrypt"
-      - "traefik.http.services.nginx.loadbalancer.server.port=8081"
+      - "traefik.http.routers.app.rule=Host(`agility-game.com`)"
+      - "traefik.http.routers.app.entrypoints=websecure"
+      - "traefik.http.routers.app.tls.certResolver=letsencrypt"
+      - "traefik.http.services.app.loadbalancer.server.port=8081"
   whoami:
     image: traefik/whoami
     ports:
