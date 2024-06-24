@@ -74,7 +74,7 @@ If you go back to the Dokploy Dashboard and open the tab **Docker**, you should 
 
 == TO DO: PUT VERIFICATION IN BROWSER OF NGINX RUNNING HERE ==
 
-Copy the Webhook URL from Dokploy App project Frontend service:
+Copy the Webhook URL from Dokploy Api project Frontend service:
 
 
 
