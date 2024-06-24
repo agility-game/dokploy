@@ -1,3 +1,3 @@
-# 900 - Create an Api Project in Hetzner server
+# 900 - Create an Api Project in Dokploy on Server on Hetzner
 
 MORE
